@@ -1,0 +1,24 @@
+{
+  "name": "test-circleci",
+  "version": "1.0.0",
+  "description": "testing CircleCI",
+  "main": "test-sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkhamHillCoders/test-circleci.git"
+  },
+  "keywords": [
+    "Testing",
+    "Test",
+    "CircleCI"
+  ],
+  "author": "Daniel Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkhamHillCoders/test-circleci/issues"
+  },
+  "homepage": "https://github.com/MarkhamHillCoders/test-circleci#readme"
+}

@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/MarkhamHillCoders/test-circleci/issues"
   },
-  "homepage": "https://github.com/MarkhamHillCoders/test-circleci#readme"
+  "homepage": "https://github.com/MarkhamHillCoders/test-circleci#readme",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
 }
